@@ -1,5 +1,5 @@
 nav {
-  padding-top: 60px;
+  padding-top: 5px;
   padding-right: 60px;
   padding-left: 60px;
   text-align: left;
@@ -8,7 +8,20 @@ nav {
   background-color: gray;
 }
 
+.cathole {
+	padding-top: 5px;
+	height: 28px;
+	width: 28px;
+	border-radius: 50%;
+}
+
+body {
+	background: url(../images/outerspace_landscape.jpeg) no-repeat;
+	background-size: cover;
+
+}
 .centerbox {
+	position: relative;
 	width: 600px;
 	height: 300px;
 	border: 5px green dotted;
