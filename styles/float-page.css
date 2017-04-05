@@ -4,6 +4,22 @@ body {
 }
 
 main {
+	padding: 60px
+	;
+}
+.firstpic {
+	float: left;
+	width: 300px;
+	height: 300px;
+}
+
+.secondpic {
+	width: 300px;
+	height: 300px;
+	float: right;
+}
+
+main {
   padding-left: 90px;
   padding-right: 90px;
   max-width: 1000px;
